@@ -1,0 +1,4 @@
+Amount,"Wallet Address",Title,"Email Address"
+1,0x90b8a0431934d7e3e4f5235dfa549f6cb4103563ccc420a5e1b344c1d1dd336c,Donation,example1@example.com
+1,0x07f5a0fb4a49d814bce19d77b58becdf49a53b7fdfb7d0f011c6391894f83f72,Sponsorship,example2@example.com
+1,0x8b948b1f28ac5aa69b47f599e4ec1ea37ca2c99d8ebfe65994c309fec75c7c7b,Grant,example3@example.com
